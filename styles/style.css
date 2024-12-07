@@ -266,7 +266,8 @@ body {
 .footer__menu-list {
   list-style: none;
   text-align: center;
-  transform: translate(5%, 3%)
+  transform: translate(5%, 3%);
+  line-height: ;
 }
 .footer__social-list {
   display: flex;
