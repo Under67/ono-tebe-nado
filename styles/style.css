@@ -22,7 +22,7 @@
   list-style: none;
   gap: 31.48px;
 }
-  .header__links-list-item_no-bullet a {
+.header__links-list-item_no-bullet a {
   text-decoration: none;
 }
 .header__logo-image {
@@ -54,7 +54,6 @@
   background-color: #000;
   opacity: 0.6;
   inset: 0;
-
 }
 .cover__title {
   padding: 165px 50px 135px 50px; 
