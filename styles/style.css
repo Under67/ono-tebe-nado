@@ -32,7 +32,7 @@
   display: grid;
   justify-self: end;
   clear: both;
-  width: 240.52px;
+  max-width: 240.52px;
   padding-top: 5.2px;
   line-height: 137%;
   font-style: normal;
@@ -113,7 +113,7 @@
   width: 256px;
   height: 51px;
   background: transparent;
-  border-color: #fff;
+  border:1px solid #fff;
   color: #fff;
 }
 .lots {
@@ -135,6 +135,7 @@
 }
 .lots__card-list-item {
   flex: 1;
+  min-width: 334px;
   min-height: 563px;
 }
 .card {
@@ -231,7 +232,7 @@
   padding-right: 13px;
   font-size: 18px;
   margin-left: 50px;
-  margin-bottom: 80px;
+  margin-bottom: 80gpx;
 }
 .footer__social-icon {
   width: 48px;
